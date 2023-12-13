@@ -23,7 +23,7 @@ Soy un desarrollador de software con una sólida formación en matemáticas y ac
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=malemaner&show_icons=true&theme=radical)
 
 ---
 > “La matemática es la puerta y la llave de las ciencias.” - Roger Bacon
