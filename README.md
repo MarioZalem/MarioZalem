@@ -1,4 +1,4 @@
-# Hola, soy Mario Zamora
+# Hola, soy Mario Zamora Alemán
 
 ## 👋 Acerca de Mí
 Soy un desarrollador de software con una sólida formación en matemáticas y actuaría, especializado en Ciencia de Datos e Inteligencia Artificial. Mi pasión por resolver problemas complejos me ha llevado a obtener licenciaturas en Matemáticas, Actuaría y Desarrollo de Software.
