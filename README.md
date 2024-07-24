@@ -6,7 +6,7 @@ Soy un desarrollador de software con una sólida formación en matemáticas y ac
 - 🌱 Actualmente estoy profundizando en el campo de la inteligencia artificial.
 - 👯 Busco colaborar en proyectos innovadores que utilicen IA para resolver problemas reales.
 - 💬 Pregúntame sobre cualquier cosa relacionada con matemáticas, actuaría, o desarrollo de software.
-- ⚡ Dato curioso: Me encanta aplicar mis conocimientos matemáticos en proyectos de desarrollo.
+- ⚡ Dato curioso: Me encanta aplicar mis conocimientos matemáticos en proyectos de desarrollo abstractos, me gusta lo difícil.
 
 ## 🛠 Habilidades Técnicas
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
