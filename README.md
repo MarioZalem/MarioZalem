@@ -26,7 +26,7 @@ Soy un desarrollador de software con una sólida formación en matemáticas y ac
 
 
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=malemaner&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mariozalem&show_icons=true&theme=radical)
 
 ---
 > “La matemática es la puerta y la llave de las ciencias.” - Roger Bacon
